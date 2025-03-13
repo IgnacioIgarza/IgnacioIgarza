@@ -1,4 +1,6 @@
-## Hi there 👋
+# ¡Hola! 👋
+## Soy *médico* y estoy ingresando al mundo de la programación.
+
 
 <!--
 **IgnacioIgarza/IgnacioIgarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
