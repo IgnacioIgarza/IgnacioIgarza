@@ -3,7 +3,7 @@
 ---
 #### Me has sido de mucha ayuda los cursos ofrecidos por la Ciudad de Buenos Aires en este iniciación.
 ![Logo de Codo a Codo](https://user-images.githubusercontent.com/83146564/137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3.png)
-![Logo de Talento Tech](https://aulasvirtuales.bue.edu.ar/pluginfile.php/1/theme_academiaba/logo/1741644066/logo_header.jpg)
+![Logo de Talento Tech](https://aulasvirtuales.bue.edu.ar/pluginfile.php/1/theme_academiaba/logo/1741644066/logo_header.jpg){width="40%"}
 
 
 
