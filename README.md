@@ -1,5 +1,7 @@
 # ¡Hola! 👋
 ## Soy *médico* y estoy ingresando al ***mundo de la programación***.
+### Trabajo en el ***Hospital Nacional Posadas***.
+![Logo Posadas](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hospital_Posadas_%282019%29.jpg/330px-Hospital_Posadas_%282019%29.jpg)
 ---
 #### Me han sido de mucha ayuda los cursos ofrecidos por la Ciudad de Buenos Aires en esta iniciación.
 ![Logo de Talento Tech](https://aulasvirtuales.bue.edu.ar/pluginfile.php/1/theme_academiaba/logo/1741644066/logo_header.jpg)
