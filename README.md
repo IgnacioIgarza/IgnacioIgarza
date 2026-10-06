@@ -7,8 +7,8 @@
 ![Logo de Talento Tech](https://aulasvirtuales.bue.edu.ar/pluginfile.php/1/theme_academiaba/logo/1741644066/logo_header.jpg)
 ![Logo de Codo a Codo](https://user-images.githubusercontent.com/83146564/137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3.png)
 ### He realizado cursos de Python, JavaScript, FrontEnd (HTML, JS, CSS), BackEnd (Node JS), React 
-### y actualmente estoy realizando uno de Testing QA, utilizando Jira.
-### Por mi formación médica estoy acostumbrado a la formación continua,
+### y actualmente estoy realizando de Testing QA, utilizando Jira, Selenium, Pytest.
+### Por mi profesión de médico estoy acostumbrado a la formación continua,
 ### y permanentemente aprovecho los recursos disponibles para continuar investigando.
 ---
 
